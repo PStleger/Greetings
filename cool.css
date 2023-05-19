@@ -1,0 +1,24 @@
+.body{
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.hello {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    background-color: blue;
+}
+.hi {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(83, 83, 171);
+}
+.hey {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(174, 174, 238);
+}
